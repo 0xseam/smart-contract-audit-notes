@@ -27,4 +27,4 @@ exploitation, no third-party systems outside a published bounty scope.
 
 ## Contact
 
-Bounty profile: hackenproof.com/hackers/digitalisasidesa1
+Bounty profile: hackenproof.com/hackers/0xseam
